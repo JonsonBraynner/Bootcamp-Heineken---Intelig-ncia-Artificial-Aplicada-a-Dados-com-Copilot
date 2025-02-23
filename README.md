@@ -6,6 +6,6 @@ Este modelo é baseado no desafio proposto no bootcamp de Inteligênci
 - Entrega – Possui status e código de rastreio;
 
 ### Neste modelo
-- Na tabela Cliente será salvo o número do documento, sendo que, para diferenciar o CPF do CNPJ será salvo também a que tipo de documento o número se refere.
+- Na tabela Cliente será salvo o número do documento, sendo que, para diferenciar o CPF do CNPJ será salvo também a que tipo de documento o número se refere.
 - Na tabela Pagamento, um cliente poderá ter um ou mais meios de pagamento, porém cada pedido pode utilizar somente um.
 - Na tabela Frete serão armazenadas informações de entrega, foi adicionado também o nome da transportadora e a previsão de entrega. Cada frete poderá estar relacionado a somente um pedido e vice-versa.
